@@ -39,19 +39,6 @@ export default function ABlogPost() {
                 <Posts />
                 <Posts />
                 <Posts />
-                <Posts />
-                <Posts />
-                <Posts />
-                <Posts />
-                <Posts />
-                <Posts />
-                <Posts />
-                <Posts />
-                <Posts />
-                <Posts />
-                <Posts />
-                <Posts />
-                <Posts />
             </div>
 
         </div>
